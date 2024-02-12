@@ -1,8 +1,5 @@
 # tanvinpavel
 <h1 align="center">Hi 👋, I'm Tanvir Pavel</h1>
-<h3 align="center">I am a learner</h3>
-
-- 🌱 I’m currently learning **Javascript**
 
 
 <h3 align="left">Languages and Tools:</h3>
